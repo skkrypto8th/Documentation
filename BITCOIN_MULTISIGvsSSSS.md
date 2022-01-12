@@ -1,5 +1,5 @@
 # Bitcoin: Multisig vs. Shamir’s Secret Sharing Scheme
----
+
 
 [Bitcoin: Multisig vs. Shamir’s Secret Sharing Scheme](https://medium.com/clavestone/bitcoin-multisig-vs-shamirs-secret-sharing-scheme-ea83a888f033)
 
